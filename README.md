@@ -85,7 +85,7 @@
 
 `React` `TypeScript` `Node.js` `FastAPI` `GPT-4o-mini` `KoTE` `XGBoost` `MySQL` `Zustand` `Recharts`
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/2026-SMHRD-KDT-HealthCare-4/yummyd)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/ckddn0221-cpu/Project-Yummy-D)
 
 ---
 
