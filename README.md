@@ -67,7 +67,7 @@
 
 `React` `FastAPI` `MediaPipe` `OpenCV` `PostgreSQL` `Firebase` `Docker` `NCP` `WebSocket` `Whisper`
 
-🔗 레포지토리 준비중
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/ckddn0221-cpu/Project-FINE)
 
 ---
 
